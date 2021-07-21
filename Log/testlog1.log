@@ -1,0 +1,187 @@
+2021-07-15 10:45:59,472 [main] INFO expediaTesting - Opening URL
+2021-07-15 10:54:36,613 [main] INFO expediaTesting - Opening URL
+2021-07-15 10:55:46,219 [main] INFO expediaTesting - Opening URL
+2021-07-15 10:58:11,980 [main] INFO expediaTesting - Opening URL
+2021-07-15 10:58:17,242 [main] INFO expediaTesting - Click Sign in button
+2021-07-15 10:58:17,854 [main] INFO expediaTesting - Entered email
+2021-07-15 10:58:18,165 [main] INFO expediaTesting - Entered password
+2021-07-15 10:58:18,485 [main] INFO expediaTesting - Click submit button
+2021-07-15 10:58:19,881 [main] INFO expediaTesting - Test is failed
+2021-07-15 11:00:51,366 [main] INFO expediaTesting - Opening URL
+2021-07-15 11:00:58,406 [main] INFO expediaTesting - Click Sign in button
+2021-07-15 11:00:58,591 [main] INFO expediaTesting - Entered email
+2021-07-15 11:00:58,753 [main] INFO expediaTesting - Entered password
+2021-07-15 11:00:58,909 [main] INFO expediaTesting - Click submit button
+2021-07-15 11:01:05,878 [main] INFO expediaTesting - Test is failed
+2021-07-16 23:42:45,730 [main] INFO expediaTesting - Choose departure and destination
+2021-07-16 23:44:15,684 [main] INFO expediaTesting - Choose departure and destination
+2021-07-16 23:44:55,552 [main] INFO expediaTesting - Choose departure and destination
+2021-07-16 23:45:43,566 [main] INFO expediaTesting - Opening URL
+2021-07-16 23:45:49,343 [main] INFO expediaTesting - Click Sign in button
+2021-07-16 23:45:49,572 [main] INFO expediaTesting - Entered email
+2021-07-16 23:45:49,693 [main] INFO expediaTesting - Entered password
+2021-07-16 23:45:49,859 [main] INFO expediaTesting - Click submit button
+2021-07-16 23:45:50,518 [main] INFO expediaTesting - Test is failed
+2021-07-16 23:46:30,312 [main] INFO expediaTesting - Choose departure and destination
+2021-07-17 21:29:31,782 [main] INFO expediaTesting - Choose departure and destination
+2021-07-17 21:29:41,731 [main] INFO expediaTesting - Choose departure date
+2021-07-17 21:34:57,470 [main] INFO expediaTesting - Choose departure and destination
+2021-07-17 21:36:21,770 [main] INFO expediaTesting - Choose departure and destination
+2021-07-18 08:03:23,179 [main] INFO expediaTesting - Choose departure and destination
+2021-07-18 08:04:00,528 [main] INFO expediaTesting - Choose departure and destination
+2021-07-18 08:04:03,728 [main] INFO expediaTesting - Choose departure date
+2021-07-18 08:04:05,542 [main] INFO expediaTesting - Choose return date
+2021-07-18 08:04:06,580 [main] INFO expediaTesting - Click search button
+2021-07-18 08:04:16,546 [main] INFO expediaTesting - Test is failed
+2021-07-18 08:06:36,255 [main] INFO expediaTesting - Choose departure and destination
+2021-07-18 08:06:40,352 [main] INFO expediaTesting - Choose departure date
+2021-07-18 08:06:41,730 [main] INFO expediaTesting - Choose return date
+2021-07-18 08:06:42,745 [main] INFO expediaTesting - Click search button
+2021-07-18 08:06:48,547 [main] INFO expediaTesting - Test is failed
+2021-07-18 08:20:41,271 [main] INFO expediaTesting - Choose departure and destination
+2021-07-18 08:20:44,024 [main] INFO expediaTesting - Choose departure date
+2021-07-18 08:20:47,405 [main] INFO expediaTesting - Choose return date
+2021-07-18 08:20:49,826 [main] INFO expediaTesting - Click search button
+2021-07-18 08:20:54,681 [main] INFO expediaTesting - Test is passed
+2021-07-18 23:18:29,815 [main] INFO expediaTesting - Choose place to pick up
+2021-07-18 23:18:31,729 [main] INFO expediaTesting - Select date to pick up
+2021-07-18 23:18:34,306 [main] INFO expediaTesting - Select date to drop off
+2021-07-18 23:18:36,542 [main] INFO expediaTesting - Select time to pick up and drop off
+2021-07-18 23:21:45,092 [main] INFO expediaTesting - Choose place to pick up
+2021-07-18 23:21:47,684 [main] INFO expediaTesting - Select date to pick up
+2021-07-18 23:21:50,671 [main] INFO expediaTesting - Select date to drop off
+2021-07-18 23:21:52,953 [main] INFO expediaTesting - Select time to pick up and drop off
+2021-07-18 23:21:53,489 [main] INFO expediaTesting - Select discount
+2021-07-18 23:22:52,294 [main] INFO expediaTesting - Choose place to pick up
+2021-07-18 23:22:54,133 [main] INFO expediaTesting - Select date to pick up
+2021-07-18 23:22:56,552 [main] INFO expediaTesting - Select date to drop off
+2021-07-18 23:22:58,556 [main] INFO expediaTesting - Select time to pick up and drop off
+2021-07-18 23:22:59,020 [main] INFO expediaTesting - Select discount
+2021-07-18 23:23:01,907 [main] INFO expediaTesting - Test is failed
+2021-07-18 23:23:54,670 [main] INFO expediaTesting - Choose departure and destination
+2021-07-18 23:24:07,487 [main] INFO expediaTesting - Choose place to pick up
+2021-07-18 23:24:09,460 [main] INFO expediaTesting - Select date to pick up
+2021-07-18 23:24:12,024 [main] INFO expediaTesting - Select date to drop off
+2021-07-18 23:24:14,273 [main] INFO expediaTesting - Select time to pick up and drop off
+2021-07-18 23:24:14,769 [main] INFO expediaTesting - Select discount
+2021-07-18 23:24:17,905 [main] INFO expediaTesting - Test is failed
+2021-07-19 17:16:39,465 [main] INFO expediaTesting - Test is failed
+2021-07-19 17:23:25,272 [main] INFO expediaTesting - Test is failed
+2021-07-19 17:23:51,660 [main] INFO expediaTesting - Test is failed
+2021-07-20 10:42:30,803 [main] INFO expediaTesting - Test is failed
+2021-07-20 11:41:30,401 [main] INFO expediaTesting - Test is failed
+2021-07-20 11:47:56,917 [main] INFO expediaTesting - Test is failed
+2021-07-20 11:49:05,512 [main] INFO expediaTesting - Test is failed
+2021-07-20 11:51:40,051 [main] INFO expediaTesting - Test is failed
+2021-07-20 11:59:20,554 [main] INFO expediaTesting - Test is failed
+2021-07-20 12:08:35,093 [main] INFO expediaTesting - Test is failed
+2021-07-20 16:50:41,293 [main] INFO expediaTesting - Test is failed
+2021-07-20 16:51:29,006 [main] INFO expediaTesting - Test is failed
+2021-07-20 22:16:34,583 [main] INFO expediaTesting - Test is failed
+2021-07-20 22:26:48,965 [main] INFO expediaTesting - Test is failed
+2021-07-20 22:54:14,672 [main] INFO expediaTesting - Choose departure and destination
+2021-07-20 22:54:19,265 [main] INFO expediaTesting - Choose departure date
+2021-07-20 22:54:23,392 [main] INFO expediaTesting - Choose return date
+2021-07-20 22:54:24,882 [main] INFO expediaTesting - Click search button
+2021-07-20 22:54:28,935 [main] INFO expediaTesting - Choose going flight
+2021-07-20 23:00:34,576 [main] INFO expediaTesting - Test is failed
+2021-07-20 23:00:55,614 [main] INFO expediaTesting - Choose departure and destination
+2021-07-20 23:00:58,145 [main] INFO expediaTesting - Choose departure date
+2021-07-20 23:01:00,876 [main] INFO expediaTesting - Choose return date
+2021-07-20 23:01:01,943 [main] INFO expediaTesting - Click search button
+2021-07-20 23:01:05,857 [main] INFO expediaTesting - Choose going flight
+2021-07-20 23:04:45,648 [main] INFO expediaTesting - Choose departure and destination
+2021-07-20 23:04:49,473 [main] INFO expediaTesting - Choose departure date
+2021-07-20 23:04:51,323 [main] INFO expediaTesting - Choose return date
+2021-07-20 23:04:52,678 [main] INFO expediaTesting - Click search button
+2021-07-20 23:04:59,254 [main] INFO expediaTesting - Choose going flight
+2021-07-20 23:05:00,533 [main] INFO expediaTesting - Choose returning flight
+2021-07-20 23:07:15,598 [main] INFO expediaTesting - Choose departure and destination
+2021-07-20 23:07:19,738 [main] INFO expediaTesting - Choose departure date
+2021-07-20 23:07:21,720 [main] INFO expediaTesting - Choose return date
+2021-07-20 23:07:22,561 [main] INFO expediaTesting - Click search button
+2021-07-20 23:07:28,875 [main] INFO expediaTesting - Choose going flight
+2021-07-20 23:08:16,310 [main] INFO expediaTesting - Choose departure and destination
+2021-07-20 23:08:18,926 [main] INFO expediaTesting - Choose departure date
+2021-07-20 23:08:20,513 [main] INFO expediaTesting - Choose return date
+2021-07-20 23:08:21,743 [main] INFO expediaTesting - Click search button
+2021-07-20 23:08:27,696 [main] INFO expediaTesting - Choose going flight
+2021-07-20 23:08:30,848 [main] INFO expediaTesting - Choose returning flight
+2021-07-20 23:08:34,932 [main] INFO expediaTesting - Test is failed
+2021-07-20 23:09:53,093 [main] INFO expediaTesting - Choose departure and destination
+2021-07-20 23:09:55,919 [main] INFO expediaTesting - Choose departure date
+2021-07-20 23:10:01,336 [main] INFO expediaTesting - Choose return date
+2021-07-20 23:10:02,870 [main] INFO expediaTesting - Click search button
+2021-07-20 23:10:07,942 [main] INFO expediaTesting - Choose going flight
+2021-07-20 23:10:09,713 [main] INFO expediaTesting - Choose returning flight
+2021-07-20 23:10:36,226 [main] INFO expediaTesting - Choose departure and destination
+2021-07-20 23:10:39,005 [main] INFO expediaTesting - Choose departure date
+2021-07-20 23:10:41,443 [main] INFO expediaTesting - Choose return date
+2021-07-20 23:10:42,874 [main] INFO expediaTesting - Click search button
+2021-07-20 23:10:45,993 [main] INFO expediaTesting - Choose going flight
+2021-07-20 23:12:31,864 [main] INFO expediaTesting - Choose departure and destination
+2021-07-20 23:12:34,537 [main] INFO expediaTesting - Choose departure date
+2021-07-20 23:12:36,175 [main] INFO expediaTesting - Choose return date
+2021-07-20 23:12:37,326 [main] INFO expediaTesting - Click search button
+2021-07-20 23:12:42,556 [main] INFO expediaTesting - Choose going flight
+2021-07-20 23:12:49,091 [main] INFO expediaTesting - Choose returning flight
+2021-07-20 23:13:24,340 [main] INFO expediaTesting - Choose departure and destination
+2021-07-20 23:13:27,026 [main] INFO expediaTesting - Choose departure date
+2021-07-20 23:13:29,064 [main] INFO expediaTesting - Choose return date
+2021-07-20 23:13:30,300 [main] INFO expediaTesting - Click search button
+2021-07-20 23:13:33,729 [main] INFO expediaTesting - Choose going flight
+2021-07-20 23:14:10,348 [main] INFO expediaTesting - Choose departure and destination
+2021-07-20 23:14:13,098 [main] INFO expediaTesting - Choose departure date
+2021-07-20 23:14:14,656 [main] INFO expediaTesting - Choose return date
+2021-07-20 23:14:15,830 [main] INFO expediaTesting - Click search button
+2021-07-20 23:14:19,012 [main] INFO expediaTesting - Choose going flight
+2021-07-20 23:15:27,535 [main] INFO expediaTesting - Choose departure and destination
+2021-07-20 23:15:29,767 [main] INFO expediaTesting - Choose departure date
+2021-07-20 23:15:34,127 [main] INFO expediaTesting - Choose return date
+2021-07-20 23:15:35,172 [main] INFO expediaTesting - Click search button
+2021-07-20 23:15:40,063 [main] INFO expediaTesting - Choose going flight
+2021-07-20 23:15:46,074 [main] INFO expediaTesting - Choose returning flight
+2021-07-20 23:15:50,843 [main] INFO expediaTesting - Test is failed
+2021-07-20 23:32:22,221 [main] INFO expediaTesting - Test is failed
+2021-07-20 23:40:59,781 [main] INFO expediaTesting - Test is failed
+2021-07-21 08:10:07,802 [main] INFO expediaTesting - Test is failed
+2021-07-21 08:12:41,789 [main] INFO expediaTesting - Test is failed
+2021-07-21 08:13:20,540 [main] INFO expediaTesting - Choose departure and destination
+2021-07-21 08:13:23,933 [main] INFO expediaTesting - Choose departure date
+2021-07-21 08:13:26,066 [main] INFO expediaTesting - Choose return date
+2021-07-21 08:13:27,486 [main] INFO expediaTesting - Click search button
+2021-07-21 08:13:31,051 [main] INFO expediaTesting - Choose going flight
+2021-07-21 08:14:30,999 [main] INFO expediaTesting - Choose departure and destination
+2021-07-21 08:14:34,477 [main] INFO expediaTesting - Choose departure date
+2021-07-21 08:14:37,329 [main] INFO expediaTesting - Choose return date
+2021-07-21 08:14:38,733 [main] INFO expediaTesting - Click search button
+2021-07-21 08:14:44,921 [main] INFO expediaTesting - Choose going flight
+2021-07-21 08:14:51,372 [main] INFO expediaTesting - Choose returning flight
+2021-07-21 08:14:56,286 [main] INFO expediaTesting - Test is failed
+2021-07-21 08:16:30,464 [main] INFO expediaTesting - Test is failed
+2021-07-21 08:20:36,351 [main] INFO expediaTesting - Test is failed
+2021-07-21 08:21:29,613 [main] INFO expediaTesting - Test is failed
+2021-07-21 08:50:56,027 [main] INFO expediaTesting - Test is failed
+2021-07-21 09:06:38,423 [main] INFO expediaTesting - Choose departure and destination
+2021-07-21 09:06:45,559 [main] INFO expediaTesting - Choose departure date
+2021-07-21 09:07:25,604 [main] INFO expediaTesting - Choose departure and destination
+2021-07-21 09:07:28,632 [main] INFO expediaTesting - Choose departure date
+2021-07-21 09:08:22,572 [main] INFO expediaTesting - Choose departure and destination
+2021-07-21 09:08:26,428 [main] INFO expediaTesting - Choose departure date
+2021-07-21 09:08:28,656 [main] INFO expediaTesting - Choose return date
+2021-07-21 09:08:30,429 [main] INFO expediaTesting - Click search button
+2021-07-21 09:11:39,603 [main] INFO expediaTesting - Choose departure and destination
+2021-07-21 09:11:41,887 [main] INFO expediaTesting - Choose departure date
+2021-07-21 09:11:43,831 [main] INFO expediaTesting - Choose return date
+2021-07-21 09:11:45,703 [main] INFO expediaTesting - Click search button
+2021-07-21 09:12:33,641 [main] INFO expediaTesting - Choose departure and destination
+2021-07-21 09:12:36,713 [main] INFO expediaTesting - Choose departure date
+2021-07-21 09:12:39,261 [main] INFO expediaTesting - Choose return date
+2021-07-21 09:12:40,966 [main] INFO expediaTesting - Click search button
+2021-07-21 09:12:49,543 [main] INFO expediaTesting - Test is passed
+2021-07-21 09:16:14,223 [main] INFO expediaTesting - Test is failed
+2021-07-21 09:55:54,540 [main] INFO expediaTesting - Test is failed
+2021-07-21 09:58:52,621 [main] INFO expediaTesting - Test is failed
+2021-07-21 10:00:51,317 [main] INFO expediaTesting - Test is failed
+2021-07-21 10:17:29,726 [main] INFO expediaTesting - Test is failed
+2021-07-21 10:22:02,901 [main] INFO expediaTesting - Test is failed
